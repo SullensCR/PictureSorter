@@ -1,0 +1,6 @@
+{
+  "name": "Photo Sorter",
+  "description": "Sort your photos into custom folders/albums using clean swipe gestures, with complete undo history and permanent deletion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
